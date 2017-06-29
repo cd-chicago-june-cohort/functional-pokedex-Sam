@@ -1,0 +1,93 @@
+*{
+    margin:0;
+    padding:0;
+    background: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    width: 750px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+}
+
+h1 {
+    margin: auto;
+    width: 400px;
+    margin-top: 30px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.frames {
+    margin: 20px;
+    border: 5px solid black;
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    height: 200px;
+}
+
+.pokemon {
+    width: 200px;
+    height: 200px;
+    background: white;
+}
+
+#info {
+    width: 350px;
+    height: 450px;;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-left: 50px;
+    position: fixed;
+    border: 5px solid black;
+    background: linear-gradient(to bottom right, grey, white);
+    border-radius: 4px;
+}
+
+.info-pic {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+    background: transparent;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 30px;
+    background: transparent;
+}
+
+ul {
+    margin: auto;
+    background: transparent;
+    width: 300px;
+    list-style-position: inside;
+}
+
+li {
+    margin: auto;
+    width: 200px;
+    background: transparent;
+}
+
+h4 {
+    background: transparent;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 5px;
+    background: transparent;
+}
+
+
